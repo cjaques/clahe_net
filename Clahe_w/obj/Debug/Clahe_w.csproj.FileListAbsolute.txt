@@ -1,0 +1,9 @@
+c:\users\chris\documents\visual studio 2015\Projects\Clahe_w\Clahe_w\bin\Debug\Clahe_w.exe.config
+c:\users\chris\documents\visual studio 2015\Projects\Clahe_w\Clahe_w\bin\Debug\Clahe_w.exe
+c:\users\chris\documents\visual studio 2015\Projects\Clahe_w\Clahe_w\bin\Debug\Clahe_w.pdb
+c:\users\chris\documents\visual studio 2015\Projects\Clahe_w\Clahe_w\obj\Debug\Clahe_w.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2015\Projects\Clahe_w\Clahe_w\obj\Debug\Clahe_w.Form1.resources
+c:\users\chris\documents\visual studio 2015\Projects\Clahe_w\Clahe_w\obj\Debug\Clahe_w.Properties.Resources.resources
+c:\users\chris\documents\visual studio 2015\Projects\Clahe_w\Clahe_w\obj\Debug\Clahe_w.csproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2015\Projects\Clahe_w\Clahe_w\obj\Debug\Clahe_w.exe
+c:\users\chris\documents\visual studio 2015\Projects\Clahe_w\Clahe_w\obj\Debug\Clahe_w.pdb
