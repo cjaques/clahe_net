@@ -9,9 +9,9 @@ The code should work on all .NET versions (it makes use of winforms).
 
 ## To-dos
 This code is minimalist (if not bad), here are some things I'll do when/if I find the time: 
-* Remove hard-coded path to image
-* Put all parameters of the CLAHE algorithm in the GUI
 * Allow to load any image
+* Debug cases of image sizes that arent powers of 2
+* Work on any type of data, not only 8 bits
 * Extend algo to color images
 * ...
 
