@@ -21,7 +21,7 @@ None, that was the goal.
 ## Ackowledgment
 
 ## License
-You are free to use and modify the code here, just know that it comes as is and there's NO WARRANTY and I'd appreciate that you mention me if you do, but there's no obligation.
+MIT licensed, c.f. the LICENSE.md file.
 
 ## Contact
 Do not hesitate to contact me if you need some help, you may find my contact [here](http://christianjaques.ch/contact/). 
